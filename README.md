@@ -1,4 +1,4 @@
-# space-event-ontology
+# Space Event Ontology
 An ontology about events in astronomical space
 
 ## Author
